@@ -6,36 +6,16 @@
 
 - Discord: https://discord.com/invite/scqCkumAYp
 
+The only thing this fork provides is a built tipa file. 
 
-# How To Build tipa file
+# Should I use Roothide?
 
-fork this repo then goto tab [Actions] -> [All Workflows] -> [build tip file] -> [Run Workflow] to build tipa file.
-
-- step 1: Login your github account and fork this project
-
-![text](/.pictures/m1.png)
-![text](/.pictures/m2.png)
+In General no. Roothide is meant for Researchers. The reasoning behind this being roothide only focuses on one thing, Hiding the jailbreak. This is 
+useful for researchers, bug bounty hunters etc. 
+The everyday user is looking for springboard injection (Tweaks that modify the springboard in anyway, ex. Cylinder) Roothide doesnt support this.
 
 
-- step 2: Goto the github Actions tab of your forked project and run workflow to build tip file
 
-![text](/.pictures/m3.png)
-![text](/.pictures/m4.png)
+#To Build your own:
 
-
-- step 3: Refresh the page and you will see the progress of the build, wait a few minutes
-
-![text](/.pictures/m5.png)
-
-
-- step 4: when the build is complete, go to the bottom of the build page to download the tipa file
-
-![text](/.pictures/m6.png)
-
-
-***and you will get the contributor with your name on Credits***
-
-![text](/.pictures/m7.png)
-
-
-*ref to build script [.github/workflows/main.yml](.github/workflows/main.yml) if you want to build on macOS.*
+https://github.com/roothide/Dopamine2-roothide
