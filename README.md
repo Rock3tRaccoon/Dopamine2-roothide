@@ -8,6 +8,11 @@
 
 The only thing this fork provides is a built tipa file. 
 
+
+# Requirements
+- iOS 15-16.5.1
+- iOS Device with TrollStore
+
 # Should I use Roothide?
 
 In General no. Roothide is meant for Researchers. The reasoning behind this being roothide only focuses on one thing, Hiding the jailbreak. This is 
